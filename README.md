@@ -88,7 +88,16 @@ Jarvis AI is a simple virtual assistant that uses speech synthesis and speech re
 
 ## Author
 
-Akash Kumar
+**Akash Kumar**  
+Frontend Developer  
+Email: akashkumar.webdev@gmail.com  
+Phone: +91 8252472186  
+
+### Social Media
+
+- [Instagram] => https://www.instagram.com/panda_creation_29?igsh=MXoydTd4cjF5MnFq
+- [WhatsApp] => (https://wa.me/918252472186)
+- [LinkedIn] => https://www.linkedin.com/in/codewithpanda28/
 
 ---
 
